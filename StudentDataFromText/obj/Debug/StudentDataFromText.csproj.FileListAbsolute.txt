@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\StudentDataFromText\bin\Debug\StudentDataFromText.exe.config
+C:\Users\User\source\repos\StudentDataFromText\bin\Debug\StudentDataFromText.exe
+C:\Users\User\source\repos\StudentDataFromText\bin\Debug\StudentDataFromText.pdb
+C:\Users\User\source\repos\StudentDataFromText\obj\Debug\StudentDataFromText.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\StudentDataFromText\obj\Debug\StudentDataFromText.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\StudentDataFromText\obj\Debug\StudentDataFromText.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StudentDataFromText\obj\Debug\StudentDataFromText.exe
+C:\Users\User\source\repos\StudentDataFromText\obj\Debug\StudentDataFromText.pdb
