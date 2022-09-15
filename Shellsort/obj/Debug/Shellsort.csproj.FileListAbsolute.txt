@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Shellsort\bin\Debug\Shellsort.exe.config
+C:\Users\User\source\repos\Shellsort\bin\Debug\Shellsort.exe
+C:\Users\User\source\repos\Shellsort\bin\Debug\Shellsort.pdb
+C:\Users\User\source\repos\Shellsort\obj\Debug\Shellsort.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Shellsort\obj\Debug\Shellsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Shellsort\obj\Debug\Shellsort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shellsort\obj\Debug\Shellsort.exe
+C:\Users\User\source\repos\Shellsort\obj\Debug\Shellsort.pdb

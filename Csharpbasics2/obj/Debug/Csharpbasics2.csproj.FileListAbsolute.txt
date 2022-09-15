@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Csharpbasics2\obj\Debug\Csharpbasics2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Csharpbasics2\obj\Debug\Csharpbasics2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Csharpbasics2\obj\Debug\Csharpbasics2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Csharpbasics2\bin\Debug\Csharpbasics2.exe.config
+C:\Users\User\source\repos\Csharpbasics2\bin\Debug\Csharpbasics2.exe
+C:\Users\User\source\repos\Csharpbasics2\bin\Debug\Csharpbasics2.pdb
+C:\Users\User\source\repos\Csharpbasics2\obj\Debug\Csharpbasics2.exe
+C:\Users\User\source\repos\Csharpbasics2\obj\Debug\Csharpbasics2.pdb

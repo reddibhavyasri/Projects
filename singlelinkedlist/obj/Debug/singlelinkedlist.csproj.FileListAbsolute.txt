@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\singlelinkedlist\bin\Debug\singlelinkedlist.exe.config
+C:\Users\User\source\repos\singlelinkedlist\bin\Debug\singlelinkedlist.exe
+C:\Users\User\source\repos\singlelinkedlist\bin\Debug\singlelinkedlist.pdb
+C:\Users\User\source\repos\singlelinkedlist\obj\Debug\singlelinkedlist.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\singlelinkedlist\obj\Debug\singlelinkedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\singlelinkedlist\obj\Debug\singlelinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\singlelinkedlist\obj\Debug\singlelinkedlist.exe
+C:\Users\User\source\repos\singlelinkedlist\obj\Debug\singlelinkedlist.pdb

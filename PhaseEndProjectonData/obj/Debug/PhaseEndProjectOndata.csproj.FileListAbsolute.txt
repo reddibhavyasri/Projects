@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\PhaseEndProjectOndata\bin\Debug\PhaseEndProjectOndata.exe.config
+C:\Users\User\source\repos\PhaseEndProjectOndata\bin\Debug\PhaseEndProjectOndata.exe
+C:\Users\User\source\repos\PhaseEndProjectOndata\bin\Debug\PhaseEndProjectOndata.pdb
+C:\Users\User\source\repos\PhaseEndProjectOndata\obj\Debug\PhaseEndProjectOndata.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PhaseEndProjectOndata\obj\Debug\PhaseEndProjectOndata.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PhaseEndProjectOndata\obj\Debug\PhaseEndProjectOndata.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PhaseEndProjectOndata\obj\Debug\PhaseEndProjectOndata.exe
+C:\Users\User\source\repos\PhaseEndProjectOndata\obj\Debug\PhaseEndProjectOndata.pdb

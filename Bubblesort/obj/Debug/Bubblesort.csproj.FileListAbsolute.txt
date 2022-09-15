@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\Users\User\source\repos\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Users\User\source\repos\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\User\source\repos\Bubblesort\obj\Debug\Bubblesort.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Bubblesort\obj\Debug\Bubblesort.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bubblesort\obj\Debug\Bubblesort.exe
+C:\Users\User\source\repos\Bubblesort\obj\Debug\Bubblesort.pdb
