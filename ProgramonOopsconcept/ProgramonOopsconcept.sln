@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramonOopsconcept", "ProgramonOopsconcept.csproj", "{B243B789-759C-4599-93E2-0B0011E87F3B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5D120416-8D7F-4314-B64B-01C379E488B4} = {5D120416-8D7F-4314-B64B-01C379E488B4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oopslibrary", "..\Oopslibrary\Oopslibrary.csproj", "{5D120416-8D7F-4314-B64B-01C379E488B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B243B789-759C-4599-93E2-0B0011E87F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B243B789-759C-4599-93E2-0B0011E87F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B243B789-759C-4599-93E2-0B0011E87F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B243B789-759C-4599-93E2-0B0011E87F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D120416-8D7F-4314-B64B-01C379E488B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D120416-8D7F-4314-B64B-01C379E488B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D120416-8D7F-4314-B64B-01C379E488B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D120416-8D7F-4314-B64B-01C379E488B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC86B257-7797-4364-BE6C-570EE6B49801}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ProgramonOopsconcept\bin\Debug\ProgramonOopsconcept.exe.config
+C:\Users\User\source\repos\ProgramonOopsconcept\bin\Debug\ProgramonOopsconcept.exe
+C:\Users\User\source\repos\ProgramonOopsconcept\bin\Debug\ProgramonOopsconcept.pdb
+C:\Users\User\source\repos\ProgramonOopsconcept\bin\Debug\Oopslibrary.dll
+C:\Users\User\source\repos\ProgramonOopsconcept\bin\Debug\Oopslibrary.pdb
+C:\Users\User\source\repos\ProgramonOopsconcept\obj\Debug\ProgramonOopsconcept.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProgramonOopsconcept\obj\Debug\ProgramonOopsconcept.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ProgramonOopsconcept\obj\Debug\ProgramonOopsconcept.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProgramonOopsconcept\obj\Debug\ProgramonOopsconcept.csproj.CopyComplete
+C:\Users\User\source\repos\ProgramonOopsconcept\obj\Debug\ProgramonOopsconcept.exe
+C:\Users\User\source\repos\ProgramonOopsconcept\obj\Debug\ProgramonOopsconcept.pdb
